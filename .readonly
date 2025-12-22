@@ -1,0 +1,3 @@
+# Use this file to make assets read-only. Include the paths as they would appear
+# in the student's workspace underneath ~/work, one per line, e.g.
+# assignments/assignment1/assets/dataset.csv
